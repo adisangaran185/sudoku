@@ -1,5 +1,5 @@
 {
-  "name": "Copy of ZenSudoku 4x4",
-  "description": "A beautiful, beginner-friendly 4x4 Sudoku game featuring a Gemini AI coach to help you master the logic of numbers.",
+  "name": "ZenSudoku 4x4",
+  "description": "A premium, minimalist 4x4 Sudoku experience built with React and Google Gemini AI.",
   "requestFramePermissions": []
 }
